@@ -164,11 +164,10 @@ Keterangan:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/web-scraping-kemdikbud-trenggalek.git
+git clone https://github.com/Wanncay/WebScrapping_Kemdikbud_KabupatenTrenggalek.git
 cd web-scraping-kemdikbud-trenggalek
 ```
 
-Ganti `username` dengan username GitHub Anda.
 
 ### 2. Membuat Virtual Environment
 
@@ -388,7 +387,7 @@ Data yang diperoleh juga mengikuti data yang tersedia pada semester yang dipilih
 
 **Ridhwan Fachrul Arief**
 
-Project ini dibuat sebagai bagian dari portofolio di bidang:
+Project ini dibuat sebagai tugas magang Badan Pusat Statitstik Kabputen Trenggalek dan bagian dari portofolio di bidang:
 
 - Data Collection
 - Web Scraping
